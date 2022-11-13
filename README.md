@@ -23,6 +23,7 @@ During the development of this project, the following techologies were used:
 - [React Native](https://reactnative.dev/)
 - [Native Base](https://nativebase.io/)
 - [Expo](https://expo.dev/)
+- [Google OAuth 2.0 Authentication](https://docs.expo.dev/guides/authentication/#google)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Project Configuration
@@ -31,6 +32,15 @@ During the development of this project, the following techologies were used:
 
 ```bash
 $ yarn
+```
+
+## 🌐 Settings Files Update
+
+It's also required to create the *.env* file on the project's root folder, based on the sample file *.env.example* and update it with the required info.
+
+```
+# Google OAuth 2.0 client ID
+CLIENT_ID=YOUR_CLIENT_ID
 ```
 
 ## ⏯️ Running
@@ -42,7 +52,7 @@ $ yarn start
 ```
 
 ### Documentation:
-* 
+* [How to add Environment variables in a React Native project with TS](https://dev.to/bhatvikrant/how-to-add-environment-variables-in-a-react-native-project-with-ts-2ne5)
 
 ## 📄 License
 
