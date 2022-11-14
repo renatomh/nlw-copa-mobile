@@ -23,6 +23,7 @@ During the development of this project, the following techologies were used:
 - [React Native](https://reactnative.dev/)
 - [Native Base](https://nativebase.io/)
 - [Expo](https://expo.dev/)
+- [Phosphor Icons](https://phosphoricons.com/)
 - [Google OAuth 2.0 Authentication](https://docs.expo.dev/guides/authentication/#google)
 - [TypeScript](https://www.typescriptlang.org/)
 
