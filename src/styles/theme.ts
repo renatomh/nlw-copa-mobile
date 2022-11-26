@@ -38,6 +38,7 @@ export const THEME = extendTheme({
   },
   /* Overwriting default theme sizes */
   sizes: {
-    14: 56
+    14: 56,
+    22: 87
   }
 });

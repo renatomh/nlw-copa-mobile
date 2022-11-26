@@ -22,6 +22,8 @@ During the development of this project, the following techologies were used:
 
 - [React Native](https://reactnative.dev/)
 - [Native Base](https://nativebase.io/)
+- [React Navigation](https://reactnavigation.org/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Expo](https://expo.dev/)
 - [Phosphor Icons](https://phosphoricons.com/)
 - [Google OAuth 2.0 Authentication](https://docs.expo.dev/guides/authentication/#google)
@@ -42,6 +44,9 @@ It's also required to create the *.env* file on the project's root folder, based
 ```
 # Google OAuth 2.0 client ID
 CLIENT_ID=YOUR_CLIENT_ID
+
+# API Base URL
+BASE_URL=YOUR_API_URL
 ```
 
 ## ⏯️ Running
