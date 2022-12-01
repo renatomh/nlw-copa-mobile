@@ -8,17 +8,26 @@ This project was developed during the RocketSeat's Next Level Week - Copa event.
 
 ## 🔍 Features
 
-* 
+* Social login using Google Account;
+* Creating new pools;
+* Listing existing pools;
+* Joining existing pools;
+* Listing matches;
+* Placing matches guesses;
 
-<!-- <p align="center"><img src=".github/sample.gif" alt="sample" /></p> -->
+<p align="center">
+    <img src=".github/login.gif" alt="login" />&emsp;
+    <img src=".github/sample.gif" alt="sample" />&emsp;
+    <img src=".github/guesses.gif" alt="guesses" />
+</p>
 
 ## 💹 Extras
 
-* 
+* Viewing created guesses;
 
 ## 🛠 Technologies
 
-During the development of this project, the following techologies were used:
+During the development of this project, the following technologies were used:
 
 - [React Native](https://reactnative.dev/)
 - [Native Base](https://nativebase.io/)
@@ -26,6 +35,7 @@ During the development of this project, the following techologies were used:
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Expo](https://expo.dev/)
 - [Phosphor Icons](https://phosphoricons.com/)
+- [Day.js](https://day.js.org/)
 - [Google OAuth 2.0 Authentication](https://docs.expo.dev/guides/authentication/#google)
 - [TypeScript](https://www.typescriptlang.org/)
 
